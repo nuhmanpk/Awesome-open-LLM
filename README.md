@@ -8,7 +8,7 @@
 | -  | Bloom  | Hugging Face  | [arxiv.org](https://arxiv.org/pdf/2211.05100) | [Bloom](https://huggingface.co/blog/bloom) | [bigscience/bloom](https://huggingface.co/bigscience/bloom)  |
 | -   | Flan-T5   | Google Ai   | [arxiv.org](https://arxiv.org/pdf/2210.11416.pdf)|[flan-t5](https://huggingface.co/docs/transformers/model_doc/flan-t5)   | [google/flan-t5-xxl](https://huggingface.co/google/flan-t5-xxl) |
 | -  | StableLM  | Stability Ai  | --  | [StableLM](https://github.com/Stability-AI/StableLM)  | [stabilityai/stablelm-tuned-alpha-chat](https://huggingface.co/spaces/stabilityai/stablelm-tuned-alpha-chat) |
-<!-- |   |   |   |   |   |  |-->
+| -  | Dolly  | Databricks  | --  | --  | [databricks/dolly-v2-12b](https://huggingface.co/databricks/dolly-v2-12b) |
 <!-- |   |   |   |   |   |  |-->
 <!-- |   |   |   |   |   |  |-->
 <!-- |   |   |   |   |   |  |-->
