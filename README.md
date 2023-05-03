@@ -1,4 +1,5 @@
 # Awesome-open-LLM
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 <!-- add image here -->
 🦜 Open Large Language Models (LLMs) have revolutionized the field of Natural Language Processing (NLP) and are rapidly gaining popularity in the AI community worldwide. To facilitate research and development in this area, we have compiled a comprehensive and curated list of papers focusing on Open LLMs
 ## Open LLMs
